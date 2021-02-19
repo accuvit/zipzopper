@@ -41,7 +41,9 @@ const ZapButton = ({ phone, msg }: ZapProps) => {
 
   const handleClick = () => {
     setClicked(true);
-    window.open(`https://api.whatsapp.com/send?phone=55${phone}&text=${msg}`);
+    window.open(
+      `https://api.whatsapp.com/send?phone=55${phone}&text=${encodeURI(msg)}`,
+    );
   };
 
   return (
