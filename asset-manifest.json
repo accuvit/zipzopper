@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/zipzopper/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/zipzopper/static/js/main.4a50530d.chunk.js",
-    "main.js.map": "/zipzopper/static/js/main.4a50530d.chunk.js.map",
+    "main.js": "/zipzopper/static/js/main.6cb23735.chunk.js",
+    "main.js.map": "/zipzopper/static/js/main.6cb23735.chunk.js.map",
     "runtime-main.js": "/zipzopper/static/js/runtime-main.fe3f0e44.js",
     "runtime-main.js.map": "/zipzopper/static/js/runtime-main.fe3f0e44.js.map",
     "static/js/2.46127104.chunk.js": "/zipzopper/static/js/2.46127104.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.fe3f0e44.js",
     "static/js/2.46127104.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4a50530d.chunk.js"
+    "static/js/main.6cb23735.chunk.js"
   ]
 }
